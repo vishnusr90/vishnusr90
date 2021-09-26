@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Vishnu
-- 👀 I’m interested in full stack development
+- 👋 Hi everyone, I’m Vishnu S R
+- 👀 I’m working as a full stack developer 
+- 💻 I like to build microservies
 - 🌱 I’m currently learning blockchain and smart contract
 
 <!---
