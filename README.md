@@ -1,7 +1,6 @@
 - 👋 Hi everyone, I’m Vishnu S R
 - 👀 I’m working as a full stack developer 
 - 💻 I like to build microservies
-- 🌱 I’m currently learning blockchain and smart contract
 
 <!---
 vishnusr90/vishnusr90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
